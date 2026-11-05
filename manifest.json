@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Streaming Card View",
+  "version": "2.0",
+  "description": "Card view for the Movies at Home browse page: full-width card view with big posters, trailers, cast, copy-title and a minimal header.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.rottentomatoes.com/browse/movies_at_home/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
