@@ -4,6 +4,8 @@ A Chrome extension that turns the Rotten Tomatoes **Movies at Home** browse page
 
 > Not affiliated with, endorsed by, or sponsored by Rotten Tomatoes or Fandango. It only restyles pages you are already viewing in your own browser.
 
+![Card view of the Movies at Home page](docs/screenshot.png)
+
 ## Install (unpacked)
 
 1. Download or clone this repo.
